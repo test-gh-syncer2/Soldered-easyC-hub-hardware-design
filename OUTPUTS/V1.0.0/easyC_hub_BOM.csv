@@ -1,0 +1,10 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+2;"G***,G***,G***,G***,G***,G***";"Logo-Front-easyC-5mm";6;"LOGO";;;
+3;"K5,K4,K3,K1,K6,K2";"easyC-connector";6;"easyC-SMD";;;
+4;"REF**";"Logo-Back-SolderedFULL-17mm";1;"Logo-Front-SolderedFULL-17mm";;;
+5;"";"buzzardLabel";1;"";;;
+6;"H1";"HOLE_3.2mm";1;"HOLE_3.2mm";;;
+7;"REF**";"Logo-Front-SolderedFULL-13mm";1;"Logo-Front-SolderedFULL-13mm";;;
+8;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+9;"Ref**";"Version1.0.0.";1;"Val**";;;
